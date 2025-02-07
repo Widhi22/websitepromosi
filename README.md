@@ -1,7 +1,7 @@
 # websitepromosi
 website sederhana untuk meningkatkan penjualan UMKM Pisang Sale Naza
 
-#Fitur website
+# Wbsite Promosi
 website ini dibuat menggunakan bahasa pemograman php, tools/ software yang digunakan adalah:
 1. visual studio code untuk menedit code
 2. xampp sebagai localhost server
@@ -15,17 +15,17 @@ langkah penggunaan:
 6. agar admin dapat mengetahui berapa orderan yang masuk terlebih dahulu admin harus login menggunakan username dan password
 7. admin akan masuk ke halaman dashboard admin yang menampilkan daftar orderan pisang sale naza dari pengguna
 
-#demo
+# Demo
 logi admin :
 username : admin
 password: admin123
 
-#versi Aplikasi
+# Versi Aplikasi
 website ini merupakan website informasi penjualan pisang sale naza sederhana, masih banyak kekurangan dari aplikasi ini. jika ada kesalahan silahkan kirimkan issue
 
-#issue
+# Issue
 website ini merupakan salah satu tugas untuk pemenuhan nilai mata kuliah saya, jadi saya membuat website sederhana ini, website ini masih dalam bntuk website paling sederhana dan saya membuat website ini juga dalam proses belajar, oleh karena itu silahkan kirimkan issue, komentar, ataupun kontribusi agar saya dapat mempelajari kesalahan yang ada.
 
-#author
+# Author
 Widhi Juliatul Jannah
 
