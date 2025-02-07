@@ -1,7 +1,7 @@
 # websitepromosi
 website sederhana untuk meningkatkan penjualan UMKM Pisang Sale Naza
 
-# Wbsite Promosi
+# Fitur Aplikasi
 website ini dibuat menggunakan bahasa pemograman php, tools/ software yang digunakan adalah:
 1. visual studio code untuk menedit code
 2. xampp sebagai localhost server
